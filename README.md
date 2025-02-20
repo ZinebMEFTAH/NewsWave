@@ -1,6 +1,6 @@
 # News Wave 🌊📰
 
-![News Wave Banner](https://source.unsplash.com/1200x300/?news,technology)
+![News Wave Banner](https://raw.githubusercontent.com/zineb-hub/NewsWave/refs/heads/main/NewsWave_Logo.jpeg)
 
 ## 🚀 Ride the News Wave: Personalized Updates Await!
 
