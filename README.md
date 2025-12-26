@@ -43,5 +43,5 @@ Ready to ride the News Wave and explore the stories that matter most to you?
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/zineb-hub/NewsWave.git
+   git clone https://github.com/ZinebMEFTAH/NewsWave.git
    cd NewsWave
